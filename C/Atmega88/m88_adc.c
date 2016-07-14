@@ -1,13 +1,13 @@
 /********************************************************
 ;
-;	  7 segment a to dp pin connected to PORTD0 ~ PORTD7
+;	7 segment a to dp pin connected to PORTD0 ~ PORTD7
 ; 	7 segment common PORTB4 and PORTB5
-;	  analog pin0 used to get value
+;	analog pin0 used to get value
 ;
-;	  Author :	Michael Umenyi
-;	  Created on 2016/07/14
+;	Author :	Michael Umenyi
+;	Created on 2016/07/14
 ;	
-; 	chip: 	Atmega88
+;	chip: 	Atmega88
 ; 	frequency: 	1Mhz
 ;
 ********************************************************/
